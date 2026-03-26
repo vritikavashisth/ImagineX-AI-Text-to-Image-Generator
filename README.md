@@ -12,9 +12,12 @@ It provides a clean and intuitive interface with multiple customization options 
 A modern and user-friendly interface where users can enter prompts and generate images.
 
 <p align="center">
-  <img src="assets/ss1.png" width="400">
+  <img src="assets/ss7.png" width="400">
 </p>
 
+<p align="center">
+  <img src="assets/ss6.png" width="400">
+</p>
 ---
 
 ### ✨ Prompt-Based Image Generation
@@ -22,24 +25,14 @@ A modern and user-friendly interface where users can enter prompts and generate 
 Users can describe their imagination in natural language.
 
 <p align="center">
-  <img src="assets/ss2.png" width="400">
+  <img src="assets/ss5.png" width="400">
 </p>
 
 ---
 
-### 🎭 Model Selection
+### 🎭 Model Selection & Customization Options
 
-Users can select different AI models like Stable Diffusion or FLUX.
-
-<p align="center">
-  <img src="assets/ss3.png" width="400">
-</p>
-
----
-
-### 📐 Customization Options
-
-Users can select image count and aspect ratio.
+Users can select different AI models like Stable Diffusion or FLUX & Users can also select image count and aspect ratio.
 
 <p align="center">
   <img src="assets/ss4.png" width="400">
@@ -52,28 +45,27 @@ Users can select image count and aspect ratio.
 The system processes prompts and generates images in real-time.
 
 <p align="center">
-  <img src="assets/ss5.png" width="400">
+  <img src="assets/ss2.png" width="400">
 </p>
 
 ---
 
-### 🖼 AI Generated Outputs (Example 1)
-
-Example output generated using a fantasy prompt.
-
-<p align="center">
-  <img src="assets/ss6.png" width="400">
-</p>
-
----
-
-### 🖼 AI Generated Outputs (Example 2)
+### 🖼 AI Generated Outputs 
 
 Multiple images generated from a single prompt.
 
 <p align="center">
-  <img src="assets/ss7.png" width="300">
-  <img src="assets/ss8.png" width="300">
+  <img src="assets/ss3.png" width="400">
+</p>
+
+---
+
+### 🖼 ### 📥 Download Generated Images
+
+Users can easily download generated images directly to their system with a single click.
+
+<p align="center">
+  <img src="assets/ss1.png" width="400">
 </p>
 
 ---
