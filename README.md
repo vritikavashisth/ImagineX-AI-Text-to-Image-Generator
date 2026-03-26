@@ -1,7 +1,7 @@
 # 🎨 AI Text-to-Image Generator
 
-An AI-powered web application that converts natural language prompts into high-quality images using advanced deep learning models.
-Users can generate images in multiple styles such as **photorealistic, anime, and abstract**, with customizable settings for better control and creativity.
+An AI-powered web application that transforms natural language prompts into high-quality images using advanced deep learning models.
+It supports multiple artistic styles and customization options, enabling users to generate visually rich and creative outputs.
 
 ---
 
@@ -9,37 +9,59 @@ Users can generate images in multiple styles such as **photorealistic, anime, an
 
 ### ✨ Text-to-Image Generation
 
-* Generate images from simple natural language prompts
-* Supports creative and descriptive inputs
+* Generate images from descriptive prompts
+* Supports creative and complex inputs
 
-### 🎭 Multiple Styles
+<p align="center">
+  <img src="assets/ui.png" width="700">
+</p>
 
-* Photorealistic
-* Anime
-* Abstract
+---
+
+### 🎭 Style & Model Selection
+
+* Choose between models like Stable Diffusion / FLUX
+* Supports multiple artistic styles
+
+<p align="center">
+  <img src="assets/model.png" width="700">
+</p>
+
+---
 
 ### 📐 Customization Options
 
 * Aspect ratios: **1:1, 16:9, 9:16**
-* Generate multiple images per prompt
+* Generate multiple images at once
 
-### 🌐 User Interface
+<p align="center">
+  <img src="assets/settings.png" width="700">
+</p>
 
-* Clean and responsive UI
-* Smooth user experience with real-time interaction
+---
+
+### 🧠 AI Generated Outputs
+
+* Produces high-quality, realistic and artistic images
+* Fast and responsive generation
+
+<p align="center">
+  <img src="assets/output1.png" width="300">
+  <img src="assets/output2.png" width="300">
+</p>
 
 ---
 
 ## 🧠 How It Works
 
-```text id="c7q9ts"
+```text
 User Prompt
    ↓
-AI Model Processing (DALL·E / Stable Diffusion)
+AI Model (DALL·E / Stable Diffusion)
    ↓
 Image Generation
    ↓
-Display Results
+Display Output
 ```
 
 ---
@@ -64,40 +86,30 @@ Display Results
 
 ---
 
-## 📸 Demo
-
-<p align="center">
-  <img src="assets/demo.png" width="700">
-</p>
-
----
-
 ## 🛠 Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone Repository
 
-```bash id="m2sl2o"
+```bash
 git clone https://github.com/vritikasharmaa/AI-project.git
 cd text-to-image-ai
 ```
 
 ### 2️⃣ Install Dependencies
 
-```bash id="o0gk0l"
+```bash
 npm install
 ```
 
 ### 3️⃣ Setup Environment Variables
 
-Create a `.env` file and add:
-
-```env id="l7gk3p"
+```env
 OPENAI_API_KEY=your_api_key_here
 ```
 
-### 4️⃣ Run the Application
+### 4️⃣ Run Application
 
-```bash id="r7d2m9"
+```bash
 npm start
 ```
 
@@ -107,8 +119,8 @@ npm start
 
 * 🔐 User authentication & prompt history
 * 🖼 Image upscaling
-* 🤖 Integration with more models (e.g., MidJourney)
-* ⚡ Faster generation & optimization
+* 🤖 Integration with more models
+* ⚡ Performance optimization
 
 ---
 
@@ -117,6 +129,8 @@ npm start
 **Vritika Sharma**
 AI/ML Enthusiast
 
-🔗 Linked In: https://www.linkedin.com/in/vritikasharmaa/
-
 ---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
