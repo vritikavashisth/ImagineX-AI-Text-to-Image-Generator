@@ -12,7 +12,7 @@ It provides a clean and intuitive interface with multiple customization options 
 A modern and user-friendly interface where users can enter prompts and generate images.
 
 <p align="center">
-  <img src="assets/ss8.png" width="400">
+  <img src="assets/ss1.png" width="400">
 </p>
 
 ---
@@ -22,7 +22,7 @@ A modern and user-friendly interface where users can enter prompts and generate 
 Users can describe their imagination in natural language.
 
 <p align="center">
-  <img src="assets/ss7.png" width="400">
+  <img src="assets/ss2.png" width="400">
 </p>
 
 ---
@@ -32,7 +32,7 @@ Users can describe their imagination in natural language.
 Users can select different AI models like Stable Diffusion or FLUX.
 
 <p align="center">
-  <img src="assets/ss6.png" width="400">
+  <img src="assets/ss3.png" width="400">
 </p>
 
 ---
@@ -42,7 +42,7 @@ Users can select different AI models like Stable Diffusion or FLUX.
 Users can select image count and aspect ratio.
 
 <p align="center">
-  <img src="assets/ss5.png" width="400">
+  <img src="assets/ss4.png" width="400">
 </p>
 
 ---
@@ -52,7 +52,7 @@ Users can select image count and aspect ratio.
 The system processes prompts and generates images in real-time.
 
 <p align="center">
-  <img src="assets/ss4.png" width="400">
+  <img src="assets/ss5.png" width="400">
 </p>
 
 ---
@@ -62,7 +62,7 @@ The system processes prompts and generates images in real-time.
 Example output generated using a fantasy prompt.
 
 <p align="center">
-  <img src="assets/ss3.png" width="400">
+  <img src="assets/ss6.png" width="400">
 </p>
 
 ---
@@ -72,8 +72,8 @@ Example output generated using a fantasy prompt.
 Multiple images generated from a single prompt.
 
 <p align="center">
-  <img src="assets/ss2.png" width="300">
-  <img src="assets/ss1.png" width="300">
+  <img src="assets/ss7.png" width="300">
+  <img src="assets/ss8.png" width="300">
 </p>
 
 ---
