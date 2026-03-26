@@ -16,7 +16,7 @@ A modern and user-friendly interface where users can enter prompts and generate 
 </p>
 
 <p align="center">
-  <img src="assets/ss6.png" width="300">
+  <img src="assets/ss6.png" width="400">
 </p>
 ---
 
@@ -146,11 +146,7 @@ npm start
 
 ## 👩‍💻 Author
 
-**Vritika Sharma**
+**Vritika**
 AI/ML Enthusiast
 
 ---
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
