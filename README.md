@@ -1,57 +1,122 @@
-This is an AI-based Text-to-Image Generator that allows users to input natural language prompts and generate images using deep learning models. It supports various styles like photorealistic, anime, and abstract, and includes customization options like aspect ratio and image count.
+# 🎨 AI Text-to-Image Generator
 
- Features-
+An AI-powered web application that converts natural language prompts into high-quality images using advanced deep learning models.
+Users can generate images in multiple styles such as **photorealistic, anime, and abstract**, with customizable settings for better control and creativity.
 
-1. Generate images from text prompts
+---
 
-2. Style selection: Photorealistic, Anime, Abstract
+## 🚀 Key Features
 
-3. Aspect ratio customization (1:1, 16:9, 9:16)
+### ✨ Text-to-Image Generation
 
-4. Generate multiple images per prompt
+* Generate images from simple natural language prompts
+* Supports creative and descriptive inputs
 
-5. Responsive and clean user interface
+### 🎭 Multiple Styles
 
- Technologies Used -
+* Photorealistic
+* Anime
+* Abstract
 
-1.Frontend: HTML, CSS , JS , React, Tailwind CSS
+### 📐 Customization Options
 
-2.Backend: Node.js 
+* Aspect ratios: **1:1, 16:9, 9:16**
+* Generate multiple images per prompt
 
-3.AI Model: OpenAI DALL·E / Stable Diffusion / Replicate API / Custom GAN
+### 🌐 User Interface
 
- Demo -
-[Screenshot 2025-04-19 193402](https://github.com/user-attachments/assets/4d5d8f4a-2400-4595-b522-f1567ebab741)
+* Clean and responsive UI
+* Smooth user experience with real-time interaction
 
+---
 
- How to Run Locally
+## 🧠 How It Works
 
-# Clone the repository
+```text id="c7q9ts"
+User Prompt
+   ↓
+AI Model Processing (DALL·E / Stable Diffusion)
+   ↓
+Image Generation
+   ↓
+Display Results
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### 🎨 Frontend
+
+* React.js
+* Tailwind CSS
+* HTML, CSS, JavaScript
+
+### 🖥 Backend
+
+* Node.js
+
+### 🤖 AI Models
+
+* OpenAI DALL·E
+* Stable Diffusion
+* Replicate API / Custom GAN
+
+---
+
+## 📸 Demo
+
+<p align="center">
+  <img src="assets/demo.png" width="700">
+</p>
+
+---
+
+## 🛠 Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash id="m2sl2o"
 git clone https://github.com/vritikasharmaa/AI-project.git
-
-# Navigate to the directory
 cd text-to-image-ai
+```
 
-# Install dependencies
+### 2️⃣ Install Dependencies
+
+```bash id="o0gk0l"
 npm install
+```
 
-# Set up environment variables (add .env.example)
+### 3️⃣ Setup Environment Variables
+
+Create a `.env` file and add:
+
+```env id="l7gk3p"
 OPENAI_API_KEY=your_api_key_here
+```
 
-# Run the app
+### 4️⃣ Run the Application
+
+```bash id="r7d2m9"
 npm start
+```
 
-Future Improvements -
-1. Optional ideas you're planning:
+---
 
-2. Add login & prompt history
+## 🛣 Future Improvements
 
-3. Support image upscaling
+* 🔐 User authentication & prompt history
+* 🖼 Image upscaling
+* 🤖 Integration with more models (e.g., MidJourney)
+* ⚡ Faster generation & optimization
 
-4. More model options (e.g., MidJourney integration)
+---
 
- Author -
- Vritika Sharma
+## 👩‍💻 Author
 
- Contributing -
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
+**Vritika Sharma**
+AI/ML Enthusiast
+
+🔗 Linked In: https://www.linkedin.com/in/vritikasharmaa/
+
+---
