@@ -16,7 +16,7 @@ A modern and user-friendly interface where users can enter prompts and generate 
 </p>
 
 <p align="center">
-  <img src="assets/ss6.png" width="400">
+  <img src="assets/ss6.png" width="300">
 </p>
 ---
 
