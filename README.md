@@ -1,53 +1,79 @@
-# 🎨 AI Text-to-Image Generator
+# 🎨 ImagineX – AI Text-to-Image Generator
 
-An AI-powered web application that transforms natural language prompts into high-quality images using advanced deep learning models.
-It supports multiple artistic styles and customization options, enabling users to generate visually rich and creative outputs.
+ImagineX is an AI-powered web application that converts natural language prompts into stunning, high-quality images using advanced models like **Stable Diffusion** and **DALL·E**.
+It provides a clean and intuitive interface with multiple customization options for enhanced creativity.
 
 ---
 
-## 🚀 Key Features
+## 🚀 Application Workflow & UI
 
-### ✨ Text-to-Image Generation
+### 🌐 Home Interface
 
-* Generate images from descriptive prompts
-* Supports creative and complex inputs
+A modern and user-friendly interface where users can enter prompts and generate images.
 
 <p align="center">
-  <img src="assets/ui.png" width="700">
+  <img src="assets/ss1.png" width="700">
 </p>
 
 ---
 
-### 🎭 Style & Model Selection
+### ✨ Prompt-Based Image Generation
 
-* Choose between models like Stable Diffusion / FLUX
-* Supports multiple artistic styles
+Users can describe their imagination in natural language.
 
 <p align="center">
-  <img src="assets/model.png" width="700">
+  <img src="assets/ss2.png" width="700">
+</p>
+
+---
+
+### 🎭 Model Selection
+
+Users can select different AI models like Stable Diffusion or FLUX.
+
+<p align="center">
+  <img src="assets/ss3.png" width="700">
 </p>
 
 ---
 
 ### 📐 Customization Options
 
-* Aspect ratios: **1:1, 16:9, 9:16**
-* Generate multiple images at once
+Users can select image count and aspect ratio.
 
 <p align="center">
-  <img src="assets/settings.png" width="700">
+  <img src="assets/ss4.png" width="700">
 </p>
 
 ---
 
-### 🧠 AI Generated Outputs
+### ⚙️ Processing & Generation
 
-* Produces high-quality, realistic and artistic images
-* Fast and responsive generation
+The system processes prompts and generates images in real-time.
 
 <p align="center">
-  <img src="assets/output1.png" width="300">
-  <img src="assets/output2.png" width="300">
+  <img src="assets/ss5.png" width="700">
+</p>
+
+---
+
+### 🖼 AI Generated Outputs (Example 1)
+
+Example output generated using a fantasy prompt.
+
+<p align="center">
+  <img src="assets/ss6.png" width="400">
+</p>
+
+---
+
+### 🖼 AI Generated Outputs (Example 2)
+
+Multiple images generated from a single prompt.
+
+<p align="center">
+  <img src="assets/ss7.png" width="300">
+  <img src="assets/ss8.png" width="300">
 </p>
 
 ---
@@ -57,11 +83,11 @@ It supports multiple artistic styles and customization options, enabling users t
 ```text
 User Prompt
    ↓
-AI Model (DALL·E / Stable Diffusion)
+AI Model (Stable Diffusion / DALL·E)
    ↓
 Image Generation
    ↓
-Display Output
+Display & Download Output
 ```
 
 ---
@@ -82,17 +108,17 @@ Display Output
 
 * OpenAI DALL·E
 * Stable Diffusion
-* Replicate API / Custom GAN
+* Replicate API
 
 ---
 
 ## 🛠 Installation & Setup
 
-### 1️⃣ Clone Repository
+### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/vritikasharmaa/AI-project.git
-cd text-to-image-ai
+git clone https://github.com/vritikavashisth/ImagineX-AI-Text-to-Image-Generator.git
+cd ImagineX-AI-Text-to-Image-Generator
 ```
 
 ### 2️⃣ Install Dependencies
@@ -103,11 +129,13 @@ npm install
 
 ### 3️⃣ Setup Environment Variables
 
+Create a `.env` file and add:
+
 ```env
 OPENAI_API_KEY=your_api_key_here
 ```
 
-### 4️⃣ Run Application
+### 4️⃣ Run the Application
 
 ```bash
 npm start
@@ -119,7 +147,7 @@ npm start
 
 * 🔐 User authentication & prompt history
 * 🖼 Image upscaling
-* 🤖 Integration with more models
+* 🤖 Integration with more AI models
 * ⚡ Performance optimization
 
 ---
